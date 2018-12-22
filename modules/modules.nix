@@ -81,6 +81,7 @@ let
     ./services/kdeconnect.nix
     ./services/keepassx.nix
     ./services/keybase.nix
+    ./services/keynav.nix
     ./services/mbsync.nix
     ./services/mpd.nix
     ./services/network-manager-applet.nix

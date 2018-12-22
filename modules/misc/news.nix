@@ -902,6 +902,13 @@ in
           A new module is available: 'programs.jq'.
         '';
       }
+
+      {
+        time = "2018-12-22T03:56:25+00:00";
+        message = ''
+          A new service is available: 'services.keynav'.
+        '';
+      }
     ];
   };
 }
